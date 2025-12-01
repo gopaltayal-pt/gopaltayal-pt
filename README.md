@@ -15,20 +15,18 @@ As a senior programmer, I have 9+ years of experience designing and developing v
 ## Languages and Tools
 
 <p>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/podmanio/podmanio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/podmanio/podmanio-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
   <br />
- 
 </p>
 
 ### 👷 Check out what I'm currently working on
