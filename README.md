@@ -10,6 +10,7 @@ As a senior programmer, I have 9+ years of experience designing and developing v
 
 - 📫 How to reach me 
   -  Mail: gopal.tayal@paymenttools.com
+  -  Slack: https://paymenttools.slack.com/team/U09R7DDSL72
 
 ## Languages and Tools
 
