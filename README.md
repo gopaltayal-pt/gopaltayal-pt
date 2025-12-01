@@ -10,6 +10,7 @@ As a senior programmer, I have 9+ years of experience designing and developing v
 
 - 📫 How to reach me 
   -  Mail: REDACTED
+  -  Slack: REDACTED
 
 ## Languages and Tools
 
