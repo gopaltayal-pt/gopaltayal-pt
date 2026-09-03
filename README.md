@@ -32,6 +32,7 @@ As a senior programmer, I have 10+ years of experience designing and developing 
 ### 👷 Check out what I'm currently working on
 <ul>
   <li>REDACTED</li>
+  <li>REDACTED</li>
 </ul>
 
 [![@gopaltayal's Holopin board](https://holopin.me/gopaltayal)](https://holopin.io/@gopaltayal)
