@@ -1,4 +1,4 @@
-As a senior programmer, I have 9+ years of experience designing and developing various software solutions on multiple technology platforms and for numerous clients across the globe. I love to design solutions for complex business use cases, implement, test, and deliver back-end web applications using various technologies. No two days are the same for me; I brainstorm ideas, analyse algorithms, build code, fix bugs, integrate new systems, and collaborate.
+As a senior programmer, I have 10+ years of experience designing and developing various software solutions on multiple technology platforms and for numerous clients across the globe. I love to design solutions for complex business use cases, implement, test, and deliver back-end web applications using various technologies. No two days are the same for me; I brainstorm ideas, analyse algorithms, build code, fix bugs, integrate new systems, and collaborate.
 <div>
 <img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/lfc131-green-software-for-practitioners.png" width="100">
 <img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/aws-certified-cloud-practitioner.png" width="100">
