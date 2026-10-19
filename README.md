@@ -8,10 +8,6 @@ As a senior programmer, I have 10+ years of experience designing and developing 
 </div>
 <img align="right" src="https://avatars.githubusercontent.com/u/84073597?s=200&v=4" width="200">
 
-- 📫 How to reach me 
-  -  Mail: REDACTED
-  -  Slack: REDACTED
-
 ## Languages and Tools
 
 <p>
@@ -28,11 +24,5 @@ As a senior programmer, I have 10+ years of experience designing and developing 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/podmanio/podmanio-ar21.svg" style="background:#ffffff;padding:8px;border-radius:8px;border:1px solid rgba(0,0,0,0.06)"></code>
   <br />
 </p>
-
-### 👷 Check out what I'm currently working on
-<ul>
-  <li>REDACTED</li>
-  <li>REDACTED</li>
-</ul>
 
 [![@gopaltayal's Holopin board](https://holopin.me/gopaltayal)](https://holopin.io/@gopaltayal)
